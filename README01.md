@@ -1,8 +1,6 @@
-1# toast_ui_grid
+1# toast_ui_grid (빵굽는개발자빵형)
 
 # Toast UI Grid 환경셋팅
-
-빵굽는개발자빵형
 
 ![image](https://github.com/YENAZIGMINA/toast_ui_grid/assets/129706758/8a0e4a3b-2116-4fb4-b4ef-30084465e34a)
 
